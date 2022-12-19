@@ -1,0 +1,28 @@
+table {
+    border: 5px solid black;
+}
+
+tr:nth-child(odd) {
+    vertical-align: middle;
+    background-color: lightslategray;
+    color: white;
+}
+
+tr:nth-child(even) {
+    color: white;
+    background-color: burlywood;
+}
+
+.cabecera-tabla-administradores {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.container-table{
+    background-color: rgba(165, 184, 154, 0.8);
+    padding: 50px;
+    border: 1px solid black;
+    border-radius: 20px;
+}

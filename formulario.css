@@ -1,0 +1,19 @@
+.form-grid-3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 10px;
+}
+
+.container-radios {
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+}
+
+#text-area {
+    width: 100%;
+}
+
+form {
+    box-shadow: 1px 10px 10px black;
+}

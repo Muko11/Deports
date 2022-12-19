@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding-top: 2%;
+    background-image: url("imagenes/prueba.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.separador {
+    padding: 20px;
+    text-align: center;
+    border-bottom: 3px dashed black;
+    border-top: 3px dashed white;
+    border-left: 3px solid black;
+    border-right: 3px solid white;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    background-color: rgba(219, 226, 231, 0.8);
+}
+
+.footer {
+    padding: 30px;
+    margin-top: 10%;
+    text-align: center;
+}

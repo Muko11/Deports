@@ -1,0 +1,15 @@
+.container-otros {
+    background-color: rgba(165, 184, 154, 0.8);
+    padding: 50px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.contenedor-principal p {
+    line-height: 30px;
+}
+
+iframe {
+    width: 800px;
+    height: 600px;
+}
